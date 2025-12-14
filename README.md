@@ -125,7 +125,7 @@ OR
 Directly download from 🤓👉  [here](https://github.com/gigachad80/JSON-Beautify/releases/tag/v1) and set it to PATH 
 
 >[!NOTE]
->#### Step 2 Rename it to ```jb``` ( Only for those who downloaded the binaries )
+>#### Step 2 Rename it to ```jb``` ( Only for those who downloaded the binaries  [ except win. users ] )
 
 #### Step 3 : Add to Path
 ```
