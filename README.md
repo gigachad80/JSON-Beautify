@@ -173,7 +173,7 @@ I needed to process and inspect multi-gigabyte JSON files locally, and existing 
 *   **VS Code / Editors:** They choked and crashed whenever I tried to open files larger than 50MB.
 *   **`jq`:** While powerful, I found the syntax annoying for simple "quick looks," and I needed something that wouldn't eat all my RAM during automated processing.
 
-I built **JSON Beautify** to be the "Local Automation Workhorse"—free, private, fast, and capable of handling files that break other tools.
+I developed JSON Beautify to stay local, run fast, and effortlessly handle files that make standard text editors crash
 
 
 ### 📞 Contact
