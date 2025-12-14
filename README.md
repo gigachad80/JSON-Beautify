@@ -114,19 +114,21 @@ kubectl logs -f my-pod -n production | jb
 git clone https://github.com/gigachad80/JSON-Beautify
 cd json-beautify
 go build -o jb main.go ( Virgin Mac users & Chad Linux users)
-
+```
 OR 
 
+```
 go build -o jb.exe main.go ( Virgin Windows users )
 ```
 OR 
 
-```
-Directly download from here and set it to PATH 
-```
+Directly download from 🤓👉  [here](https://github.com/gigachad80/JSON-Beautify/releases/tag/v1) and set it to PATH 
 
-#### Step 2 : Add to Path
-```bash
+>[!NOTE]
+>#### Step 2 Rename it to ```jb``` ( Only for those who downloaded the binaries )
+
+#### Step 3 : Add to Path
+```
 sudo mv jb /usr/local/bin/
 ```
 
